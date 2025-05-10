@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1746897721730,
+    "nombre": "jose",
+    "email": "jose@correo",
+    "edad": "123"
+  },
+  {
+    "id": 1746897759495,
+    "nombre": "oliver",
+    "email": "oliver.@pos.com",
+    "edad": "123123"
+  },
+  {
+    "id": 1746898948654,
+    "nombre": "alan",
+    "email": "oliver@asd.com",
+    "edad": "123"
+  }
+]
